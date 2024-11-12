@@ -18,15 +18,15 @@ Azure is a cloud computing platform that allows you to access and manage cloud s
 
 <h3>Step 1: Create an Azure Account</h3>
 
-- Select Start Free
+- You can go to https://azure.microsoft.com/en-us/get-started/azure-portal
+- Select Start free
 - Follow the prompt to create the account 
      - You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then.
 - Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
      - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
 
-
-Image
-
+![Screenshot 092149](https://github.com/user-attachments/assets/bc0ec007-0856-4774-bcfa-fa3f410b7ae2)
+![Screenshot 092524](https://github.com/user-attachments/assets/490893f6-c3bc-4dff-932f-8289b8f2ec14)
 
 
 <h3>Step 2: Create a Resource Group</h3>
@@ -36,6 +36,9 @@ Image
 - You will need to name the resource group and select the region 
 - Select Review + Create on the lower left
     - For this example, we will be using RG-Lab-1 for the name and (US) East US 2 for the region
+  
+![Screenshot 092716](https://github.com/user-attachments/assets/045e0bc6-f706-47c3-8aa1-b24d103b605b)
+![Screenshot 092916](https://github.com/user-attachments/assets/4e371e3c-4b96-4481-9fd4-b7fff70f7801)
 
 Image
 
@@ -50,10 +53,8 @@ Image
     - Use the same resource group and region as step 2
 - Select Review, then Create
 
-Image
-Image
-
-
+![Screenshot 093129](https://github.com/user-attachments/assets/2dec6691-ca73-4f19-96cc-a32321cbdbf4)
+![Screenshot 093232](https://github.com/user-attachments/assets/0080b8c4-be81-4843-9f7e-b2ead936799e)
 
 
 <h3>Step 4: Create a Virtual Machine</h3>
@@ -64,11 +65,8 @@ Image
     - For thise example, we will name the virtual machine "virtualmachine"
     - Use the same resource group and region as steps 2 and 3
 
-Image
-Image
-
-
-
+![Screenshot 093507](https://github.com/user-attachments/assets/363c56df-95fc-4390-88fc-96d29b646535)
+![Screenshot 093616](https://github.com/user-attachments/assets/fbb10284-e718-4fac-a40a-7e686ed1855c)
 
 
 * You will then need to select the image and disk size
