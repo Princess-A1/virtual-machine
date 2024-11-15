@@ -40,9 +40,6 @@ Azure is a cloud computing platform that allows you to access and manage cloud s
 ![Screenshot 092716](https://github.com/user-attachments/assets/045e0bc6-f706-47c3-8aa1-b24d103b605b)
 ![Screenshot 092916](https://github.com/user-attachments/assets/4e371e3c-4b96-4481-9fd4-b7fff70f7801)
 
-Image
-
-
 
 <h3>Step 3: Create a Storage Account</h3>
 
@@ -68,7 +65,6 @@ Image
 ![Screenshot 093507](https://github.com/user-attachments/assets/363c56df-95fc-4390-88fc-96d29b646535)
 ![Screenshot 093616](https://github.com/user-attachments/assets/fbb10284-e718-4fac-a40a-7e686ed1855c)
 
-
 * You will then need to select the image and disk size
     - For image we will use Windows 10 Pro
     - For size, select See All Sizes and select Standard D2as_v4
@@ -77,11 +73,8 @@ Image
     - Create your own password
 * Click the box under licensing and finally click Review + Create 
 
+![Screenshot 210037](https://github.com/user-attachments/assets/2f770771-cce6-4d28-9141-6bc18aa73b9a)  
 
-Image
-
- 
-     
 
 <h3>Step 5: Connect to the Virtual Machine</h3>
 
@@ -89,8 +82,7 @@ Image
    - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
    - Copy the public IP address
 
-Image
-
+![Screenshot 205750](https://github.com/user-attachments/assets/ca3af94b-8559-434b-b342-598293efdd7a)
 
 * For Mac Users: 
    - Download Microsoft Remote Desktop
@@ -104,15 +96,10 @@ Image
      - Paste the public IP Address and select Connect
      - Enter the username and password from step 4
      - Select OK
-  
-Image
 
-
-
-
-
+![Screenshot  210309](https://github.com/user-attachments/assets/3fbfdd6b-8535-4847-b1ba-dc781120dd35)
 
 You have created your first virtual machine within Azure!
 
+![Screenshot 210618](https://github.com/user-attachments/assets/f1040162-d239-4c72-b070-6be189255d15)
 
-Image
